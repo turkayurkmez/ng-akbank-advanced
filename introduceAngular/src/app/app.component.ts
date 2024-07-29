@@ -4,22 +4,18 @@ import { Person } from './models/person.model';
 import { TodoItem } from './models/todoItem.model';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
+import { HeaderMenuComponent } from './header-menu/header-menu.component';
+import { AddTodoItemComponent } from './add-todo-item/add-todo-item.component';
+import { fakeTodoItems } from './models/todoItem.mock';
 
 
-export const fakeTodoItems: TodoItem[] = [
-  { id:1, isDone:true, task:'Çiçekleri sula' },
-  { id:2, isDone:false, task:'Kediyi besle' },
-  { id:3, isDone:true, task:'Kum al' },
-
-
-];
 
 
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, FormsModule,CommonModule],
+  imports: [RouterOutlet, FormsModule,CommonModule, HeaderMenuComponent,AddTodoItemComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
@@ -60,6 +56,8 @@ export class AppComponent implements OnChanges {
       this.filterButtonText = 'Sadece yapılacak işleri göster';
     }  
   }
+
+
 
 
 

@@ -1,5 +1,5 @@
 export interface TodoItem{
-    id: number;
+    id: number | undefined;
     task: string;
     isDone: boolean | undefined | null
 }
