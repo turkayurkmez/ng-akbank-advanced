@@ -3,5 +3,24 @@
   {{title}}
 </h1>
 <p>{{ name }} tarafından {{date}} tarihinde yazıldı</p>
-<input type="checkbox" [checked]="" name="" id="">
+
 <p>{{person.name}} {{person.date}}</p>
+
+@if (todoItems) {
+
+<h3>Yapılacak toplam iş [{{getIncompletedTasksCount()}}]</h3>
+<button (click)="filter()">{{filterButtonText}}</button>
+<ul>
+  <!-- <li *ngFor="let todo of todoItems">
+    {{todo.task}}
+    <input [checked]="todo.isDone" type="checkbox" name="" id="">
+  </li> -->
+  @for (item of todoItems; track $index) {
+    <li [ngClass]="item.isDone ? 'done':'undone'">{{item.task}}
+      <input type="checkbox"  [(ngModel)]="item.isDone" name="" id="">({{item.isDone ? 'Yapıldı':'Yapılmadı'}})
+   </li>
+  }
+</ul>
+}@else {
+  <p>Yapılacak görev yok!</p>
+}
