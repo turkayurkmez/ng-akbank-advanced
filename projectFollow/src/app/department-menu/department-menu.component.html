@@ -1,7 +1,7 @@
 @if (departments) {
 <div class="list-group">
     @for (department of departments; track $index) {
-    <a href="#" class="list-group-item list-group-item-action">{{department.name}}</a>
+    <a routerLink="/projects/{{department.id}}" class="list-group-item list-group-item-action">{{department.name}}</a>
     }
 
 

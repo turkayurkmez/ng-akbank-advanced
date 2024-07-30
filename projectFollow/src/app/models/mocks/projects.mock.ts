@@ -9,7 +9,7 @@ export const fakeProjects : Project[] = [
 
         ], score:75      
     },
-    {id:2, name:'Project B', description:'Desc of P.B', startDate: new Date(2024,6,1), completedPercentage:0.25, departmentId:1, tasks:
+    {id:2, name:'Project B', description:'Desc of P.B', startDate: new Date(2024,6,1), completedPercentage:0.25, departmentId:2, tasks:
         [
             {id:1,name:'B 1', description:'B 1 desc', expectedDate: new Date(2024,7,1), isDone:false,projectId:2},
             {id:2,name:'B 2', description:'B 2 desc', expectedDate: new Date(2024,7,10), isDone:false,projectId:2},
@@ -17,7 +17,7 @@ export const fakeProjects : Project[] = [
 
         ], score:64        
     },
-    {id:3, name:'Project C', description:'Desc of P.C', startDate: new Date(2024,6,1), completedPercentage:0.25, departmentId:1, tasks:
+    {id:3, name:'Project C', description:'Desc of P.C', startDate: new Date(2024,6,1), completedPercentage:0.25, departmentId:3, tasks:
         [
             {id:1,name:'c 1', description:'C 1 desc', expectedDate: new Date(2024,7,1), isDone:false,projectId:3},
             {id:2,name:'C 2', description:'C 2 desc', expectedDate: new Date(2024,7,10), isDone:false,projectId:3},

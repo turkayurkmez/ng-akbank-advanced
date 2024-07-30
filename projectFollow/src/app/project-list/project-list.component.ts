@@ -5,6 +5,7 @@ import { ProjectComponent } from '../project/project.component';
 import { SearchPipe } from '../pipes/search.pipe';
 import { FormsModule } from '@angular/forms';
 import { ProjectsService } from '../services/projects.service';
+import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-project-list',
@@ -14,17 +15,24 @@ import { ProjectsService } from '../services/projects.service';
   styleUrl: './project-list.component.css',
 })
 export class ProjectListComponent implements OnInit {
-
   projects!: Project[];
   keyword: string | null = null;
 
-  constructor(private projectService: ProjectsService){
-
-  }
+  constructor(
+    private projectService: ProjectsService,
+    private activeRoute: ActivatedRoute
+  ) {}
 
   ngOnInit(): void {
     this.projects = this.projectService.getFakeProjects();
+    this.activeRoute.params.subscribe((routeParam) => {
+      let id = Number.parseInt(routeParam['depId']);
+      console.log(id);
+      console.log(this.projects);
+
+      if (id) {
+        this.projects = this.projectService.getFakeProjects().filter((p) => p.departmentId == id);
+      }
+    });
   }
-
-
 }
