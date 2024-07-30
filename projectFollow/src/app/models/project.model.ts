@@ -7,6 +7,7 @@ export interface Project{
     startDate? : Date;
     completedPercentage?:number;
     departmentId?: number;
-    tasks?: Task[]
+    tasks?: Task[],
+    score?:number
 
 }

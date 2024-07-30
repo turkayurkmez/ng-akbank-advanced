@@ -1,9 +1,13 @@
 <div class="card">
     <div class="card-body">
-        <h3 class="card-title">{{currentProject.name | titlecase}}</h3>
+        <h3 class="card-title">{{currentProject.name | titlecase}}
+            <span class="badge rounded-pill bg-dark float-end">Kalan görev: {{totalUndoneTasksCount}}</span>
+        </h3>
         <p class="card-text">{{currentProject.description | lowercase}}</p>
         <p class="card-text">{{currentProject.startDate | date: 'dd MMMM yyyy'}}</p>
         <p class="card-text">{{currentProject.completedPercentage | percent}}</p>
+        <p class="card-text"> {{currentProject.score}} ({{(currentProject.score! | text) | uppercase}}) puan!</p>
+
         <app-task-list [allTasks]="currentProject.tasks!"></app-task-list>
 
     </div>
