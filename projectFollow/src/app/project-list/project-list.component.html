@@ -1,1 +1,3 @@
-<p>project-list works!</p>
+@for (project of projects; track $index) {
+    <app-project [currentProject]="project"></app-project>
+}

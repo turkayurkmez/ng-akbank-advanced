@@ -1,1 +1,10 @@
-<p>project works!</p>
+<div class="card">
+    <div class="card-body">
+        <h3 class="card-title">{{currentProject.name | titlecase}}</h3>
+        <p class="card-text">{{currentProject.description | lowercase}}</p>
+        <p class="card-text">{{currentProject.startDate | date: 'dd MMMM yyyy'}}</p>
+        <p class="card-text">{{currentProject.completedPercentage | percent}}</p>
+        <app-task-list [allTasks]="currentProject.tasks!"></app-task-list>
+
+    </div>
+</div>

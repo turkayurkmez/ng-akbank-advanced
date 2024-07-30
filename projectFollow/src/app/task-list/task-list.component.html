@@ -1,1 +1,8 @@
-<p>task-list works!</p>
+<ul class="list-group">
+    @for (task of tasks; track $index) {
+        <li class="list-group-item">
+            <input type="checkbox" name="" id="" [checked]="task.isDone" class="form-check-input">
+            {{task.name | uppercase}} {{task.description}} ({{task.expectedDate | date:'dd MMMM yyyy'}})
+        </li>
+    }
+</ul>
