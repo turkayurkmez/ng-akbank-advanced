@@ -1,1 +1,13 @@
-<p>department-menu works!</p>
+@if (departments) {
+<div class="list-group">
+    @for (department of departments; track $index) {
+    <a href="#" class="list-group-item list-group-item-action">{{department.name}}</a>
+    }
+
+
+</div>
+}@else {
+<div class="alert alert-info">
+    Departman verisine erişilemiyor!
+</div>
+}
