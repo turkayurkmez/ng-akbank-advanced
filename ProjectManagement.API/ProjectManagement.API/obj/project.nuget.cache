@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qaK8iSek+E7a1cVBDxAjK5ev0SxEs/LmXIcou9t5jZhwKbwG/U7bXGcu4DOTtfh9t6fC0LCn6FE65Ho3SXifDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\turka\\source\\repos\\Kurumsal\\akbank\\Advanced Angular - II\\ProjectManagement.API\\ProjectManagement.API\\ProjectManagement.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

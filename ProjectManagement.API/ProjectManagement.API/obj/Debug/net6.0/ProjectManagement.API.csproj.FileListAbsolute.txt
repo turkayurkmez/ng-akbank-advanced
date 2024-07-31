@@ -1,0 +1,128 @@
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\appsettings.json
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.exe
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.deps.json
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.dll
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.pdb
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\scopedcss\bundle\ProjectManagement.API.styles.css
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.dll
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\refint\ProjectManagement.API.dll
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.pdb
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ref\ProjectManagement.API.dll
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.ProjectManagement.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectManagement.API.props
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectManagement.API.props
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectManagement.API.props
+C:\Users\turka\source\repos\Kurumsal\Siemens\TS & Angular\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\appsettings.json
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.exe
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.deps.json
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.dll
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.pdb
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.ProjectManagement.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectManagement.API.props
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectManagement.API.props
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectManagement.API.props
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\scopedcss\bundle\ProjectManagement.API.styles.css
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.dll
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\refint\ProjectManagement.API.dll
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.pdb
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Migros\Angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ref\ProjectManagement.API.dll
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\appsettings.json
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.exe
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.deps.json
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.dll
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.pdb
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.ProjectManagement.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectManagement.API.props
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectManagement.API.props
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectManagement.API.props
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\scopedcss\bundle\ProjectManagement.API.styles.css
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.dll
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\refint\ProjectManagement.API.dll
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.pdb
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\akbank\angular\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ref\ProjectManagement.API.dll
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\appsettings.json
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.exe
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.deps.json
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.dll
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\ProjectManagement.API.pdb
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.ProjectManagement.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectManagement.API.props
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectManagement.API.props
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectManagement.API.props
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\scopedcss\bundle\ProjectManagement.API.styles.css
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.dll
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\refint\ProjectManagement.API.dll
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.pdb
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ProjectManagement.API.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\akbank\angularAdv\ProjectManagement.API\ProjectManagement.API\obj\Debug\net6.0\ref\ProjectManagement.API.dll
