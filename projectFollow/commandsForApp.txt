@@ -1,0 +1,5 @@
+dotnet uygulamasını (API) çalıştırmak için:
+
+Proje dosyasının (.csproj) olduğu klasöre gidin.
+    dotnet run 
+komutunu çalıştırın

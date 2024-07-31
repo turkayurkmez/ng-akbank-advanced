@@ -6,9 +6,9 @@ import { Project } from '../models/project.model';
   standalone: true,
 })
 export class SearchPipe implements PipeTransform {
-  transform(value: Project[], keyword: string): Project[] {
+  transform(value: Project[] | null| undefined, keyword: string|null): Project[] |undefined | null {
     return keyword != undefined
-      ? value.filter((p) => p.name?.toLocaleLowerCase().includes(keyword.toLocaleLowerCase()))
+      ? value?.filter((p) => p.name?.toLocaleLowerCase().includes(keyword.toLocaleLowerCase()))
       : value;
   }
 }

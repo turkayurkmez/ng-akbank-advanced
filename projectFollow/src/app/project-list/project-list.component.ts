@@ -6,17 +6,23 @@ import { SearchPipe } from '../pipes/search.pipe';
 import { FormsModule } from '@angular/forms';
 import { ProjectsService } from '../services/projects.service';
 import { ActivatedRoute } from '@angular/router';
+import { Observable } from 'rxjs';
+import { AsyncPipe } from '@angular/common';
 
 @Component({
   selector: 'app-project-list',
   standalone: true,
-  imports: [ProjectComponent, SearchPipe, FormsModule],
+  imports: [ProjectComponent, SearchPipe, FormsModule, AsyncPipe],
   templateUrl: './project-list.component.html',
   styleUrl: './project-list.component.css',
 })
 export class ProjectListComponent implements OnInit {
-  projects!: Project[];
+  //projects!: Project[];
   keyword: string | null = null;
+  //Dikkat: custom pipe ile bir araya getiremediğim için bu özelliği kullanmayacağım:
+  projects$?: Observable<Project[]>;
+
+  projects!: Project[];
 
   constructor(
     private projectService: ProjectsService,
@@ -24,15 +30,19 @@ export class ProjectListComponent implements OnInit {
   ) {}
 
   ngOnInit(): void {
-    this.projects = this.projectService.getFakeProjects();
-    this.activeRoute.params.subscribe((routeParam) => {
-      let id = Number.parseInt(routeParam['depId']);
-      console.log(id);
-      console.log(this.projects);
+    //Dikkat: custom pipe ile bir araya getiremediğim için bu özelliği kullanmayacağım:
+    this.projects$ = this.projectService.getProjects();
 
-      if (id) {
-        this.projects = this.projectService.getFakeProjects().filter((p) => p.departmentId == id);
-      }
+    // this.projectService
+    //   .getProjects()
+    //   .subscribe((response) => (this.projects = response));
+
+    this.activeRoute.params.subscribe((routeParam) => {
+      //let id = Number.parseInt(routeParam['depId']);
+      //console.log(id);
+      console.log(routeParam['depId']);
+
+      this.projects$ = this.projectService.getProjects(routeParam['depId']);
     });
   }
 }

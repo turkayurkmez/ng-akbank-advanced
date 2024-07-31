@@ -1,6 +1,6 @@
-@if (departments) {
+@if (departments$ | async) {
 <div class="list-group">
-    @for (department of departments; track $index) {
+    @for (department of departments$ | async; track $index) {
     <a routerLink="/projects/{{department.id}}" class="list-group-item list-group-item-action">{{department.name}}</a>
     }
 

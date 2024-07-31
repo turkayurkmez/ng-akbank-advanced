@@ -1,4 +1,4 @@
 <input type="text" placeholder="Aranacak kelime" [(ngModel)]="keyword" class="form-control">
-@for (project of projects | search: keyword!; track $index) {
+@for (project of projects$ | async |  search:keyword ; track $index) {
     <app-project [currentProject]="project"></app-project>
 }
