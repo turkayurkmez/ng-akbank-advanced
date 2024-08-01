@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, inject, OnInit } from '@angular/core';
 import {
   FormBuilder,
   FormGroup,
@@ -24,6 +24,9 @@ export class AddProjectComponent implements OnInit {
   ) {}
 
   departments$!: Observable<Department[]>;
+
+  //inject() fonksiyonu ile dependency injection:
+  readonly depService = inject(DepartmentsService);
   newProjectForm!: FormGroup;
 
   ngOnInit(): void {

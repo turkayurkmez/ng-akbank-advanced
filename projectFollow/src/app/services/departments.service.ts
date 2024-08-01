@@ -3,6 +3,7 @@ import { Department } from '../models/department.model';
 import { fakeDepartments } from '../models/mocks/department.mock';
 import { HttpClient, HttpErrorResponse, HttpHeaders } from '@angular/common/http';
 import { catchError, Observable, throwError } from 'rxjs';
+import { environment } from '../../environments/environment';
 
 @Injectable({
   providedIn: 'root',
@@ -14,7 +15,7 @@ export class DepartmentsService {
     return fakeDepartments;
   }
 
-  url: string = 'https://localhost:7125/api/Departments';
+  url: string = `${environment.apiUrl}/Departments`;
 
   getDepartments(): Observable<Department[]> {
     return this.httpClient.get<Department[]>(this.url).pipe(
