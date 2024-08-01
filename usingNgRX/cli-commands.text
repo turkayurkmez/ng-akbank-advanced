@@ -1,0 +1,7 @@
+--ngrx Store kütüphanesini projemize ekliyoruz: 
+ng add @ngrx/store 
+
+-- store üzerinde çalışan yapıların httpClient gibi ekstra servisler ile çaşlışması yani state üzerindeki 
+değişikliklerin bir "yan etkisi" olması gerekiyorsa effects eklenmeli
+
+ng add @ngrx/effects
