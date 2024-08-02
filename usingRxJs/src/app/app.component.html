@@ -1,0 +1,18 @@
+<button (click)="read()">Signal Değerlerini oku</button>
+<button (click)="changeNameValue()">İsmi değiştir</button>
+<button (click)="updateNameValue()">İsmi güncelle</button>
+<button (click)="updateCounter()">Sayacı güncelle</button>
+<span>{{counter()}}</span>
+
+
+<p>{{name()}}</p>
+<p>{{computedSignal()}}</p>
+
+<ul>
+  @for (product of products(); track $index) {
+  <li>{{product.name}}</li>
+  }
+  @empty {
+  <p>Ürün koleksiyonu boş!</p>
+  }
+</ul>
