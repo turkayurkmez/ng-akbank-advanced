@@ -8,7 +8,7 @@ import { reducers } from './store/reducers';
 import { PostsEffects } from './store/effects';
 
 
-//provideStore({postState: reducers}) ifadesindeki postState, appStateInterface'inin bir özelliği.
+//provideStore({postState: reducers}) ifadesindeki postsState, appStateInterface'inin bir özelliği.
 export const appConfig: ApplicationConfig = {
-  providers: [provideRouter(routes), provideStore({postState: reducers}), provideEffects(PostsEffects)]
+  providers: [provideRouter(routes), provideStore({postsState: reducers}), provideEffects(PostsEffects)]
 };

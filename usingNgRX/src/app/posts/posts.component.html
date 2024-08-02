@@ -5,10 +5,14 @@
 @else {
 @for (post of posts$ |async; track $index) {
 <div>
+    <button (click)="remove(post.id)">Sil</button>
     <h3>{{post.title}}</h3>
     <p>{{post.content}}</p>
+
 </div>
 }
 }
 
 <div *ngIf="error$ | async as error">{{error}}</div>
+
+<app-create></app-create>

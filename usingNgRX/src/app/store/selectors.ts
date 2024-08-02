@@ -19,5 +19,9 @@ export const errorSelector = createSelector(
     selectFeature, (state)=>state.error
 );
 
+export const postCreatedSuccessSelector = createSelector(
+   selectFeature, (state)=>state.postCreatedSuccess
+);
+
 
 

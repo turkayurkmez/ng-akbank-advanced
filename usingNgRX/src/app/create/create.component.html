@@ -1,0 +1,17 @@
+<div>
+    <input type="text" #title name="" id="">
+
+</div>
+<div>
+    <input type="text" #content name="" id="">
+
+</div>
+<div>
+    <button (click)="addPost(title.value, content.value)">
+        Post Ekle
+    </button>
+</div>
+
+<p *ngIf="postCreatedSuccess$ | async as success">
+    {{success.title}} başarıyla eklendi!
+</p>
